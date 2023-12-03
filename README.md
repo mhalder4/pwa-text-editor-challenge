@@ -9,7 +9,7 @@ This project was meant to show how a PWA can be developed and configured so that
 - [Questions](#questions)
 - [Tests](#tests)
 ## Installation
-The pertinent files for the project, including this README can all be found in the Github repository located at: https://github.com/mhalder4/pwa-text-editor-challenge. The website can be found at the Github pages address that follows: . The user can also hit the install button in the upper left of the browser tab in order to install an offline version for use
+The pertinent files for the project, including this README can all be found in the Github repository located at: https://github.com/mhalder4/pwa-text-editor-challenge. The website can be found at the Github pages address that follows: https://pwa-text-editor-challenge-mlh-414eca18a36a.herokuapp.com/. The user can also hit the install button in the upper left of the browser tab in order to install an offline version for use
 ## Usage
 The program is a normal text editor that can be accessed either normally online, or can be installed to access and use just the same offline. Screenshots of both online and offline forms are shown below.
 
